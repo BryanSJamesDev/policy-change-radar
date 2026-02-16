@@ -1,0 +1,22 @@
+# Core dependencies
+streamlit>=1.28.0
+pydantic>=2.0.0
+numpy>=1.24.0
+
+# PDF extraction
+PyMuPDF>=1.23.0
+
+# Embeddings and vector store
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
+
+# Optional LLM providers (not required for mock mode)
+openai>=1.0.0  # Optional: for OpenAI provider
+anthropic>=0.7.0  # Optional: for Anthropic provider
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Utilities
+python-dotenv>=1.0.0

@@ -1,0 +1,144 @@
+COMMERCIAL GENERAL LIABILITY INSURANCE POLICY
+Version 2.0 - Effective July 1, 2024
+
+PREAMBLE
+
+This Commercial General Liability Insurance Policy is entered into between Acme Insurance Company ("the Insurer") and the Named Insured as specified in the Declarations. This policy provides coverage for bodily injury and property damage liability arising from the Named Insured's business operations, subject to the terms, conditions, and exclusions set forth herein.
+
+This version incorporates updated coverage limits, modified deductible structures, and enhanced exclusions to reflect current risk management practices.
+
+SECTION 1: COVERAGE LIMITS
+
+The Insurer agrees to pay on behalf of the Named Insured all sums that the Named Insured becomes legally obligated to pay as damages because of bodily injury or property damage covered by this policy.
+
+Coverage Limits (UPDATED):
+- General Aggregate Limit: $3,000,000
+- Products-Completed Operations Aggregate: $3,000,000
+- Personal and Advertising Injury Limit: $1,500,000
+- Each Occurrence Limit: $1,000,000
+- Fire Damage Limit (Any one fire): $250,000
+- Medical Expense Limit (Any one person): $15,000
+
+The limits shown above are the most we will pay regardless of the number of insureds, claims made, or persons or organizations making claims. These enhanced limits provide broader protection for the Named Insured's operations.
+
+SECTION 2: DEDUCTIBLE PROVISIONS
+
+An annual aggregate deductible of $10,000 applies to all claims during the policy period. Once the annual aggregate deductible has been satisfied through payment of claims, no further deductible applies for the remainder of the policy year.
+
+The deductible is calculated on an annual aggregate basis rather than per-incident basis. The Named Insured is responsible for tracking and documenting deductible payments throughout the policy year.
+
+The Insurer will advance payment on behalf of the Named Insured and deduct the applicable deductible amount from claim settlements or seek direct reimbursement from the Named Insured.
+
+SECTION 3: COVERAGE TERRITORY
+
+This insurance applies to bodily injury and property damage that occurs within the coverage territory, which includes:
+
+a) The United States of America (including its territories and possessions)
+b) Puerto Rico
+c) Canada
+d) International operations (for business travel up to 90 days per trip)
+
+Coverage is provided only if the bodily injury or property damage occurs during the policy period and is caused by an occurrence that takes place in the coverage territory. The expanded international coverage applies only to temporary business travel and does not cover permanent foreign operations.
+
+SECTION 4: EXCLUSIONS
+
+This insurance does not apply to:
+
+a) Expected or Intended Injury: Bodily injury or property damage expected or intended from the standpoint of the Named Insured.
+
+b) Contractual Liability: Liability assumed under any contract or agreement, except for liability that the Named Insured would have in the absence of the contract.
+
+c) Liquor Liability: Bodily injury or property damage for which any insured may be held liable by reason of causing or contributing to the intoxication of any person, or furnishing alcoholic beverages to a person under legal drinking age.
+
+d) Workers Compensation: Any obligation of the Named Insured under workers compensation, disability benefits, or unemployment compensation law.
+
+e) Employer's Liability: Bodily injury to an employee of the Named Insured arising out of and in the course of employment.
+
+f) Pollution: Bodily injury or property damage arising out of the actual, alleged, or threatened discharge, dispersal, seepage, migration, release, or escape of pollutants.
+
+g) Aircraft, Auto, or Watercraft: Bodily injury or property damage arising out of the ownership, maintenance, use, or entrustment to others of any aircraft, auto, or watercraft owned or operated by the Named Insured.
+
+h) Professional Services: Bodily injury or property damage arising out of the rendering of or failure to render professional services.
+
+i) CYBER INCIDENTS (NEW): Bodily injury, property damage, or personal and advertising injury arising out of, caused by, or resulting from any cyber incident, including but not limited to:
+   - Unauthorized access to or use of computer systems
+   - Denial of service attacks
+   - Introduction of malicious code or viruses
+   - Theft, loss, or unauthorized disclosure of data
+   - Ransomware or other cyber extortion
+   - Business interruption caused by cyber events
+
+This exclusion applies regardless of any other cause or event that contributes concurrently or in any sequence to the loss.
+
+j) COMMUNICABLE DISEASE (NEW): Bodily injury or property damage arising out of, caused by, resulting from, or related to any actual or alleged transmission of a communicable disease, including but not limited to viruses, bacteria, parasites, or other organisms capable of causing illness or death.
+
+SECTION 5: CLAIMS NOTIFICATION REQUIREMENTS
+
+The Named Insured must notify the Insurer within 30 days of any occurrence that may result in a claim. Written notice must be provided within this timeframe or coverage may be denied.
+
+Enhanced notification requirements:
+- Notice must be submitted through the Insurer's online portal or by certified mail
+- Notice should include photographs or video evidence when available
+- For claims involving bodily injury exceeding $25,000 or property damage exceeding $50,000, immediate telephone notice is required within 24 hours
+
+The notice should include:
+- Name and address of the Named Insured and policy number
+- Date, time, and place of the occurrence with specific details
+- Names, addresses, and contact information of any injured persons and witnesses
+- Nature and location of any injury or damage with supporting documentation
+- Estimated amount of damages or injuries
+- Police report number if applicable
+
+Failure to provide timely notice will result in denial of coverage if the Insurer's rights are materially prejudiced by the delay. The burden of proving lack of prejudice rests with the Named Insured.
+
+SECTION 6: DEFENSE AND SETTLEMENT
+
+The Insurer has the right and duty to defend any suit seeking damages covered by this policy, even if the allegations are groundless, false, or fraudulent. The Insurer may investigate and settle any claim or suit at its discretion.
+
+Defense costs are paid in addition to the policy limits. The Insurer's obligation to defend ends when the applicable limit of insurance has been exhausted by payment of judgments or settlements.
+
+The Named Insured must cooperate with the Insurer in the investigation, defense, and settlement of any claim or suit. Failure to cooperate, including failure to attend depositions, hearings, or trials, may result in denial of coverage.
+
+The Insurer reserves the right to select defense counsel. The Named Insured may request alternative counsel subject to Insurer approval and at no additional cost to the Insurer.
+
+SECTION 7: PREMIUM AND PAYMENT TERMS
+
+The annual premium for this policy is specified in the Declarations and is due on the policy inception date. Premium payments may be made in monthly, quarterly, or semi-annual installments upon request and approval by the Insurer, subject to an installment fee of 3% per payment period.
+
+Late payments are subject to an 8% penalty if not received within 10 days of the due date. Failure to pay the premium when due will result in automatic cancellation of the policy after a 15-day grace period.
+
+Premium adjustments: This policy is subject to annual premium audits based on actual exposures. The Named Insured must provide accurate payroll, sales, or other exposure information upon request. Additional premium or return premium will be calculated based on audit results.
+
+SECTION 8: CANCELLATION AND NON-RENEWAL
+
+The Named Insured may cancel this policy at any time by providing written notice to the Insurer. The Insurer will return any unearned premium on a short-rate basis, subject to a minimum earned premium of 25%.
+
+The Insurer may cancel this policy by providing 15 days written notice to the Named Insured for non-payment of premium, or 45 days written notice for any other reason permitted by law.
+
+Non-renewal: The Insurer may elect not to renew this policy by providing 60 days written notice prior to the policy expiration date.
+
+SECTION 9: GENERAL CONDITIONS
+
+Inspection and Audit: The Insurer has the right to inspect the Named Insured's operations and records at any time during the policy period and for five years thereafter. The Named Insured must maintain complete and accurate records.
+
+Assignment: This policy may not be assigned without the written consent of the Insurer. Any attempted assignment without consent is void.
+
+Subrogation: If the Insurer makes any payment under this policy, the Insurer is subrogated to all the Named Insured's rights of recovery against any third party. The Named Insured must execute all documents necessary to secure such rights and must do nothing to prejudice these rights.
+
+Changes: This policy may only be changed by written endorsement issued by the Insurer and signed by an authorized representative.
+
+Other Insurance: If other valid insurance is available to the Named Insured covering the same loss, this insurance will apply on an excess basis over such other insurance.
+
+SECTION 10: DEFINITIONS
+
+Bodily Injury: Physical injury, sickness, or disease sustained by a person, including death resulting from any of these at any time. Mental anguish or emotional distress is not considered bodily injury unless accompanied by physical manifestation.
+
+Property Damage: Physical injury to tangible property, including all resulting loss of use of that property; or loss of use of tangible property that is not physically injured. This does not include loss of use of intangible property or electronic data.
+
+Occurrence: An accident, including continuous or repeated exposure to substantially the same general harmful conditions. All exposure to substantially the same general harmful conditions shall be considered as arising out of one occurrence.
+
+Insured: The Named Insured and any other person or organization qualifying as an insured under the terms of this policy.
+
+Cyber Incident: Any unauthorized access, use, or disruption of computer systems, networks, or electronic data, including but not limited to hacking, malware, ransomware, denial of service attacks, or data breaches.
+
+This policy is subject to all terms, conditions, and exclusions stated herein and in any endorsements attached hereto. This version supersedes all prior versions.
