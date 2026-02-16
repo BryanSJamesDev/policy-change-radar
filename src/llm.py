@@ -226,8 +226,11 @@ class OpenAILLM(LLMInterface):
 
         self.api_key = api_key or get_secret("OPENAI_API_KEY")
         if not self.api_key:
-            raise ValueError("OpenAI API key not provided (set OPENAI_API_KEY or .streamlit/secrets.toml)")
-
+            raise ValueError(
+                "OpenAI API key not provided.\n"
+                "Set OPENAI_API_KEY environment variable or add to .streamlit/secrets.toml\n"
+                "Or use provider='mock' to run without API keys"
+            )
 
         self.model = model
         self.client = openai.OpenAI(api_key=self.api_key)
@@ -268,9 +271,13 @@ class AnthropicLLM(LLMInterface):
         except ImportError:
             raise ImportError("anthropic package not installed. Install with: pip install anthropic")
 
-        self.api_key = api_key or os.getenv("ANTHROPIC_API_KEY")
+        self.api_key = api_key or get_secret("ANTHROPIC_API_KEY")
         if not self.api_key:
-            raise ValueError("Anthropic API key not provided and ANTHROPIC_API_KEY not set")
+            raise ValueError(
+                "Anthropic API key not provided.\n"
+                "Set ANTHROPIC_API_KEY environment variable or add to .streamlit/secrets.toml\n"
+                "Or use provider='mock' to run without API keys"
+            )
 
         self.model = model
         self.client = anthropic.Anthropic(api_key=self.api_key)

@@ -11,8 +11,9 @@ sentence-transformers>=2.2.0
 faiss-cpu>=1.7.4
 
 # Optional LLM providers (not required for mock mode)
-openai>=1.0.0  # Optional: for OpenAI provider
-anthropic>=0.7.0  # Optional: for Anthropic provider
+# Uncomment below if you want to use OpenAI or Anthropic providers:
+# openai>=1.0.0  # Optional: for OpenAI provider
+# anthropic>=0.7.0  # Optional: for Anthropic provider
 
 # Testing
 pytest>=7.4.0
