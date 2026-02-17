@@ -202,44 +202,6 @@ policy-change-radar/
     └── test_align.py           # Alignment tests
 ```
 
-## 60-Second Demo Script
-
-**[Presenter starts with app.py running]**
-
-> "This is Policy Change Radar - an evidence-based insurance policy analysis system."
-
-**[Click 'Load Sample Policies']**
-
-> "I'm loading two versions of a commercial liability policy. Version 2 has several critical changes."
-
-**[Select 'mock' provider, click 'Run Analysis']**
-
-> "Watch the pipeline: extracting, segmenting into sections, embedding, aligning sections across versions, detecting changes..."
-
-**[Navigate to Executive Summary tab]**
-
-> "The executive summary shows we detected 12 total changes, with 3 high-severity modifications. Coverage limits increased from $500K to $1M, deductibles changed from per-incident to annual aggregate, and a new cyber exclusion was added."
-
-**[Navigate to Changes by Section tab]**
-
-> "Here's the side-by-side comparison. See the evidence? Every change cites exact quotes from both versions. This isn't hallucinated - it's grounded in the actual policy text."
-
-**[Navigate to Impact Analyzer tab]**
-
-> "The system analyzed downstream impacts: Claims processing needs updates for the new deductible structure. Underwriting must recalibrate risk models. Customer Support needs updated FAQs."
-
-**[Navigate to Test Cases tab]**
-
-> "It generated 8 test scenarios, including 2 edge cases. Here's one: 'Customer files a $750K claim with multiple incidents' - tests the new aggregate deductible logic."
-
-**[Navigate to Evaluation tab]**
-
-> "Finally, the evaluation harness. 95% citation coverage - nearly every output includes evidence. Retrieval relevance at 82%. Total analysis time: 8.3 seconds."
-
-**[Close]**
-
-> "Policy Change Radar: Evidence-based policy analysis at scale. Thank you."
-
 ## Key Differentiators
 
 1. **Evidence-First Design**: Every output must cite specific text snippets
