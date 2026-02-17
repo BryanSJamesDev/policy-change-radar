@@ -396,6 +396,3 @@ GitHub: [your-repo-url]
 Year: 2024
 ```
 
----
-
-**Built with evidence. Powered by AI. Measured with metrics.**
