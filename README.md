@@ -392,7 +392,7 @@ If you use this system in your research or product, please cite:
 
 ```
 Policy Change Radar: Evidence-Based Insurance Policy Analysis
-GitHub: [your-repo-url]
+GitHub: https://github.com/BryanSJamesDev/policy-change-radar
 Year: 2024
 ```
 
